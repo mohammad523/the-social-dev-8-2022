@@ -1,0 +1,72 @@
+.dashboard-title {
+    padding: 15px;
+}
+
+.sub-header-dashboard{
+    background-color: rgb(238, 238, 238);
+    padding: 15px;
+}
+
+.dash-buttons {
+    padding: 25px;      
+    text-align: center;
+}
+
+.exp-div{
+    margin: 10px;
+    border-top: 3px solid rgb(233, 233, 233);
+    border-bottom: 3px solid rgb(233, 233, 233);
+}
+
+
+
+.btn-danger {
+    
+}
+
+.dashboard-exp-edu {
+}
+
+.tr-exp {
+    text-align: left;
+
+}
+
+.tr-exp > th {
+    text-align: left;
+
+}
+
+.edu-div {
+    border-bottom: 3px solid rgb(233, 233, 233);
+    margin: 10px;
+}
+
+.tr-edu > th {
+}
+
+.exp-years{
+}
+
+.table {
+    width: 100%;
+    text-align: left;
+}
+
+td {
+    padding: 15px;
+    
+}
+
+th {
+    padding: 15px;
+}
+
+.my-2{
+    padding: 15px;
+}
+
+.delete-account-btn {
+    /* display: flex; */
+    text-align: center;
+}

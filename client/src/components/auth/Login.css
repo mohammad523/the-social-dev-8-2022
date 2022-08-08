@@ -1,0 +1,21 @@
+/** @format */
+
+.login-padding {
+	padding: 50px;
+	margin: 50px;
+}
+
+.login-page {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	
+	
+
+}
+
+.blue-text {
+	color: rgb(4, 93, 209);
+	font-style: none;
+}
