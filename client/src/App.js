@@ -37,7 +37,7 @@ const App = () => {
 				<div className='main-grid'>
 					<Navbar />
 					<Switch>
-						<Route path='/' component={Landing} />
+						<Route exact path='/' component={Landing} />
 						<Route component={Routes} />
 					</Switch>
 				</div>
