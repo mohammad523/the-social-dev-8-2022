@@ -15,6 +15,10 @@ const Post = require("../../models/Post");
 //@route   GET api/profile/me
 //@desc    Test route
 //@access  Private
+
+/**
+ * if profile exists, then get profile
+ */
 router.get("/me", auth, async (req, res) => {
 	try {
 		const profile = await Profile.findOne({
