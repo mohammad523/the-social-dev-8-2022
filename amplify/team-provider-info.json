@@ -1,0 +1,42 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-devsocialnetwork2-dev-124757-authRole",
+      "UnauthRoleArn": "arn:aws:iam::969636948657:role/amplify-devsocialnetwork2-dev-124757-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::969636948657:role/amplify-devsocialnetwork2-dev-124757-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-devsocialnetwork2-dev-124757-deployment",
+      "UnauthRoleName": "amplify-devsocialnetwork2-dev-124757-unauthRole",
+      "StackName": "amplify-devsocialnetwork2-dev-124757",
+      "StackId": "arn:aws:cloudformation:us-east-1:969636948657:stack/amplify-devsocialnetwork2-dev-124757/3dc71870-4fbf-11ee-a250-12adc10573c9",
+      "AmplifyAppId": "d29rud8dokgera"
+    }
+  },
+  "tsd": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-devsocialnetwork2-tsd-125212-authRole",
+      "UnauthRoleArn": "arn:aws:iam::969636948657:role/amplify-devsocialnetwork2-tsd-125212-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::969636948657:role/amplify-devsocialnetwork2-tsd-125212-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-devsocialnetwork2-tsd-125212-deployment",
+      "UnauthRoleName": "amplify-devsocialnetwork2-tsd-125212-unauthRole",
+      "StackName": "amplify-devsocialnetwork2-tsd-125212",
+      "StackId": "arn:aws:cloudformation:us-east-1:969636948657:stack/amplify-devsocialnetwork2-tsd-125212/c0f8e930-4fbf-11ee-9eaa-0ad88e0bede3",
+      "AmplifyAppId": "d29rud8dokgera"
+    },
+    "categories": {
+      "function": {
+        "devsocialnetwork205a04caf": {
+          "deploymentBucketName": "amplify-devsocialnetwork2-tsd-125212-deployment",
+          "s3Key": "amplify-builds/devsocialnetwork205a04caf-4435422b765334746e7a-build.zip"
+        }
+      },
+      "auth": {
+        "devsocialnetwork2e1f7ef38": {}
+      },
+      "api": {
+        "api76501bcd": {}
+      }
+    }
+  }
+}

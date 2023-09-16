@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/": {
+      "name": "/",
+      "lambdaFunction": "devsocialnetwork205a04caf",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
